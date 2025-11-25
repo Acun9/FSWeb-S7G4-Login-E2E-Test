@@ -87,3 +87,5 @@ Testler `cypress/e2e` (veya `cypress/integration`) dizinine yerleştirilmelidir.
 - Proje lisansı yoksa `LICENSE` ekleyin veya basitçe "MIT" gibi bir lisans belirtin.
 
 ---
+
+Eğer isterseniz, README'yi projenin mevcut dosya yapısına daha fazla göre özelleştirip doğrudan commit etmemi sağlayabilirsiniz. Ayrıca README içine örnek test komutlarını ve CI notlarını ekleyebilirim.
