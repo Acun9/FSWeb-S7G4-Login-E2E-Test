@@ -5,8 +5,7 @@ Kısa açıklama: Bu proje, bir Login formu için uçtan uca (E2E) testlerin yaz
 **İçindekiler**
 
 - **Proje:** Login formu uygulaması
-- **Testler:** Cypress E2E testleri (başarılı giriş, doğrulama hataları)
-- **Hedef:** GitHub üzerinde düzgün görünen ve kolay çalıştırılabilen bir proje README'si
+- **Hedef:** Cypress E2E testleri (başarılı giriş, doğrulama hataları)
 
 ## Gereksinimler
 
@@ -87,5 +86,3 @@ Testler `cypress/e2e` (veya `cypress/integration`) dizinine yerleştirilmelidir.
 - Proje lisansı yoksa `LICENSE` ekleyin veya basitçe "MIT" gibi bir lisans belirtin.
 
 ---
-
-Eğer isterseniz, README'yi projenin mevcut dosya yapısına daha fazla göre özelleştirip doğrudan commit etmemi sağlayabilirsiniz. Ayrıca README içine örnek test komutlarını ve CI notlarını ekleyebilirim.
