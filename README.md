@@ -23,20 +23,20 @@ git clone https://github.com/Acun9/FSWeb-S7G4-Login-E2E-Test.git
 cd FSWeb-S7G4-Login-E2E-Test
 ```
 
-2. Bağımlılıkları yükleyin:
+2. Proje klasörüne girin ve bağımlılıkları yükleyin:
+
+> **Önemli Not:** Proje dosyaları `vite-project` klasörü altındadır.
 
 ```powershell
+cd vite-project
 npm install
-# veya
-yarn install
 ```
 
 ## Geliştirme (Uygulamayı çalıştırma)
 
 ```powershell
+# vite-project klasöründe olduğunuzdan emin olun
 npm run dev
-# veya
-npm start
 ```
 
 Projede `components` klasöründe `Login` ve `Success` bileşenleri bulunması beklenir.
