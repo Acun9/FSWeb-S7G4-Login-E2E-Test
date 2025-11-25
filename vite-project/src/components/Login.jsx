@@ -82,9 +82,6 @@ export default function Login() {
             />
             Şartları kabul ediyorum
           </label>
-          {errors.terms && (
-            <div style={{ color: "red", fontSize: "12px" }}>{errors.terms}</div>
-          )}
         </div>
 
         <button
